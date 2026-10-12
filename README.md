@@ -11,7 +11,7 @@ High-school student at St. Andrew's School (Class of 2027), heading toward chemi
 | [Equilibrium](https://github.com/DivyaB1130/divyab1130.github.io) | My portfolio site. The page colour follows a universal pH indicator as you scroll, with a live seawater carbonate model, a titration simulator and an in-page document reader. | HTML, CSS, JavaScript, pdf.js |
 | [NorthStar*](https://github.com/DivyaB1130/NorthStar1) | AI travel-guide chatbot using retrieval-augmented generation: an LLM extracts preferences, live Foursquare data supplies real places, and answers come only from that data. Team capstone, Kode With Klossy AI & ML 2026, with a [filter-based prototype](https://github.com/DivyaB1130/Northstar2). [Try it](https://huggingface.co/spaces/kode-with-klossy/4.3-groupC4-capstone). | Python, Gradio, Hugging Face, Foursquare Places API |
 | [Hearing Hand](https://github.com/DivyaB1130/hearing-hand) | iOS app for learning American Sign Language alongside Deaf culture, with lessons, quizzes, streaks and a daily challenge. Team project, Kode With Klossy Mobile App Development 2024. | Swift, SwiftUI |
-| [All About Me](https://github.com/DivyaB1130/About-Me-Project) | My first SwiftUI app, from the first days of Kode With Klossy's Mobile App Development program (2024). | Swift, SwiftUI |
+| [All About Me](https://github.com/DivyaB1130/About-Me-Project) | My first SwiftUI app, an early exercise in Kode With Klossy's Mobile App Development program (2024). | Swift, SwiftUI |
 | Period 5 | Website teaching young people about the menstrual cycle, with facts, resources and product guides. Team project, Kode With Klossy Website Development 2023. | HTML, CSS, JavaScript |
 
 ## Research and writing
