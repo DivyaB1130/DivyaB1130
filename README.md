@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Divya!
 ## 🚀 About Me
 
-#### I'm a high school student at St. Andrew's School (Class of 2027) heading toward **chemical and biological engineering**. I'm most interested in where chemistry, biology and engineering meet the communities they affect, from carbon removal in seawater to apps that make learning more accessible.
-#### I've spent four summers coding with Kode With Klossy (web development, mobile apps, data science and AI/ML), completed the Girls Who Code Summer Immersion Program, and studied climate chemistry in the Harvard Pre-College Program.
+#### I'm a high school student at St. Andrew's School (Class of 2027) leaning towards studying **chemical and biological engineering**. I'm most interested in where chemistry, biology and engineering meet the communities they affect, from carbon removal in seawater to apps that make learning more accessible.
+#### I've spent four summers coding with Kode With Klossy (web development, mobile apps, data science and AI/ML), completed the Girls Who Code Summer Immersion Program, and researched climate chemistry over this past summer at Harvard.
 #### 🔗 [Portfolio](https://divyab1130.github.io/)
 #### 🔗 [LinkedIn](https://www.linkedin.com/in/divya-bhatia1130/)
 
