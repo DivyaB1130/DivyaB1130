@@ -58,7 +58,7 @@
 ### 🌊 [Ocean Alkalinity Enhancement](https://divyab1130.github.io/#entry-oae)
 *Research synthesis with Una: Harvard Pre-College Program, The Chemistry of a Human Earth (2026)*
 - **Overview:** Can adding alkalinity to seawater safely pull CO₂ from the air, and can anyone prove it worked? A review of the carbonate chemistry, geological analogues, delivery methods, the first permitted field trials, monitoring and cost.
-- **Status:** Abstract submitted to SCCUR 2026; IYRC Winter 2026 submission in progress.
+- **Status:** Accepted for presentation at SCCUR 2026 (San Diego State University, November 21, 2026) as "Ocean Alkalinity Enhancement for Marine Carbon Removal: A Review of Carbonate Chemistry, Geological Analogues, and Barriers to Scale." IYRC Winter 2026 submission in progress.
 - **📄 [Read the Presentation](https://divyab1130.github.io/#entry-oae)**
 
 ---
